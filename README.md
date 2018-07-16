@@ -8,6 +8,11 @@ learn something about ML with TensorFlow!
 [Sklearn与TensorFlow机器学习实用指南-项目github](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)  
 [源码](https://github.com/ageron/handson-ml)
 ***
+### [scikit-learn-doc-zh](https://github.com/apachecn/scikit-learn-doc-zh)
+### [scikit-learn中文文档](http://sklearn.apachecn.org/)
+### [sklearn-tutorial](https://github.com/jakevdp/sklearn_tutorial)
+### [scikit-learn-examples](http://scikit-learn.org/stable/auto_examples/index.html#general-examples)
+***
 ## Windows10下使用Anaconda安装TensorFlow
 ### 推荐使用pip3进行安装
 <pre>
