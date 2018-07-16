@@ -3,7 +3,8 @@ learn something about ML with TensorFlow!
 ***
 ### [TensorFlow中文社区](http://www.tensorfly.cn/)
 ***
-### [Sklearn与TensorFlow机器学习实用指南](https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247486285&idx=3&sn=5e68ba944bed31644206902776ae36bc&chksm=ec5ed430db295d26db4117c1f263217d8621f86bf4bc72041d9ec50b810abee640c79c2d3535&scene=21#wechat_redirect)
+### [Sklearn与TensorFlow机器学习实用指南](https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247487162&idx=2&sn=86e178bfd0e419f831880fef60981207&chksm=ec5ed1c7db2958d1ba9c30adff9b3d1558203e24f3393297122307cb6df337bfe78f197867e6&mpshare=1&scene=1&srcid=07167KmQvFQCSCkMIr5xkeMB&pass_ticket=D0egOddlhmMa16%2BtzzB7nMTp3C05YZJvkdvwOeMSbKiWgvx3ockjprqA8T9ocEYQ#rd)
+
 [Sklearn与TensorFlow机器学习实用指南-项目github](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)  
 [源码](https://github.com/ageron/handson-ml)
 ***
